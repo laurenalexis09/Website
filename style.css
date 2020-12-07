@@ -1,16 +1,16 @@
 
 
 body {
+  background-image: url('https://github.com/laurenalexis09/Website/blob/main/backgrnd.gif?raw=true');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background: rgba(0, 0, 0, 0.2);
   color: black;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 0px;
   margin: 0px;
-  background-image: url('https://github.com/laurenalexis09/Website/blob/main/backgrnd.gif?raw=true');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  opacity: 0.2;
 }
 
 
