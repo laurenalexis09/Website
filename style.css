@@ -1,12 +1,21 @@
 
 
-body {
+.body {
   color: black;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 0px;
   margin: 0px;
 }
+
+.body::before {
+background-image: url('https://github.com/laurenalexis09/Website/blob/main/backgrnd.gif?raw=true');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+opacity: 0.5;
+}
+
 .image-area {
 background-image:url('https://github.com/laurenalexis09/Website/blob/main/ocean.jpg?raw=true');
   background-color:black;
