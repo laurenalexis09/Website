@@ -9,21 +9,8 @@ position:relative;
   margin: 0px;
 }
 
-body::before {
-content: "";
-position: absolute;
-background-image: url('https://github.com/laurenalexis09/Website/blob/main/backgrnd.gif?raw=true');
-background-repeat: no-repeat;
-background-size: cover;
-opacity: 0.5;
-top: 0px;
-right: 0px;
-bottom: 0px;
-left: 0px;
-}
-
 .image-area {
-background-image:url('https://github.com/laurenalexis09/Website/blob/main/ocean.jpg?raw=true');
+  background-image: url('https://github.com/laurenalexis09/Website/blob/main/backgrnd.gif?raw=true');
   background-color:black;
   background-position: center center;
   background-size: cover;
