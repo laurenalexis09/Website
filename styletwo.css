@@ -60,9 +60,8 @@ position:relative;
 }
 
 ul {
-  display: inline-block;
-        text-align:left;
-
+   display: table;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 700px) {
